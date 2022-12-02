@@ -1,3 +1,3 @@
 # React.js-projects
 https://remarkable-banoffee-87107a.netlify.app/ LINK TO THE WEATHER APP
-https://aquamarine-bombolone-ee9f0b.netlify.app/ MY CV using react.js
+cv-ramin-aliiev.netlify.app MY CV using react.js
